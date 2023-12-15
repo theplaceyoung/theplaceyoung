@@ -15,7 +15,7 @@ Explore my GitHub repositories to see what I've been working on.
 
 📫 You can contact me through your preferred method or your GitHub profile.
 
-😄 Pronouns: She
+😄 Pronouns: She/Her
 
 ⚡ Fun fact: Despite being engaged in self-driven projects currently, I'm curious to learn how others manage personal and professional tasks, which might inspire future enhancements in my personal management app.
 
