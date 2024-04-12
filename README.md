@@ -21,11 +21,7 @@ Explore my GitHub repositories to see what I've been working on.
 
 ## Languages and Tools
 ![python](https://www.python.org/static/community_logos/python-powered-h-50x65.png)
-
-## How to reach me
-linkedin.com/in/theplaceyoung
-
-
+![
 ## Featured Projects - TBD
 
 <!-- ### [Project Name 1](Link to Project 1)
