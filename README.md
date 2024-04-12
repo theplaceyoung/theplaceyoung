@@ -20,8 +20,7 @@ Explore my GitHub repositories to see what I've been working on.
 ⚡ Fun fact: Despite being engaged in self-driven projects currently, I'm curious to learn how others manage personal and professional tasks, which might inspire future enhancements in my personal management app.
 
 ## Languages and Tools
-python
-![Alt python]([link](https://www.python.org/static/community_logos/python-powered-h-50x65.png))
+![python]([link](https://www.python.org/static/community_logos/python-powered-h-50x65.png))
 
 ## How to reach me
 linkedin.com/in/theplaceyoung
