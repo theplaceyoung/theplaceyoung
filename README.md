@@ -21,7 +21,11 @@ Explore my GitHub repositories to see what I've been working on.
 
 ## Languages and Tools
 ![python](https://www.python.org/static/community_logos/python-powered-h-50x65.png)
+![image](https://github.com/theplaceyoung/theplaceyoung/assets/48339423/9468e7b2-2834-4044-ad06-8174d0bd3382)
 
+![wordpress](https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg)
+![windows](https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg)
+![figma](https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg)
 ## Featured Projects - TBD
 
 <!-- ### [Project Name 1](Link to Project 1)
