@@ -21,10 +21,10 @@ Explore my GitHub repositories to see what I've been working on.
 
 ## Languages and Tools
 ![python](https://www.python.org/static/community_logos/python-powered-h-50x65.png)
-![image](https://github.com/theplaceyoung/theplaceyoung/assets/48339423/9468e7b2-2834-4044-ad06-8174d0bd3382){: width="50" height="50"}
-![wordpress](https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg){: width="50" height="50"}
-![windows](https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg){: width="50" height="50"}
-![figma](https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg){: width="50" height="50"}
+![image](https://github.com/theplaceyoung/theplaceyoung/assets/48339423/9468e7b2-2834-4044-ad06-8174d0bd3382)| width="50" height="50")
+![wordpress](https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg)| width="50" height="50")
+![windows](https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg)| width="50" height="50")
+![figma](https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg)| width="50" height="50")
 
 ## Featured Projects - TBD
 
